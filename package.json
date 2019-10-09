@@ -1,0 +1,19 @@
+{
+  "name": "babel-react-rfor",
+  "version": "1.0.1",
+  "description": "react版本的r-for指令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vnues/rFor.git"
+  },
+  "author": "vnues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnues/rFor/issues"
+  },
+  "homepage": "https://github.com/vnues/rFor#readme"
+}
