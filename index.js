@@ -1,4 +1,4 @@
-const { objValueStr2AST } = require('../lib');
+const { objValueStr2AST } = require('./lib');
 module.exports = function ({ types: t }) {
   let directive_for = 'r-for'
   function JSXElementVisitor(path) {
